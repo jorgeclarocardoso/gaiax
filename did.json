@@ -1,0 +1,22 @@
+{
+  "@context": "https://w3id.org/did/v1",
+  "id": "did:web:jorgeclarocardoso.github.io:gaiax",
+  "verificationMethod": [
+    {
+      "id": "did:web:jorgeclarocardoso.github.io:gaiax#keys-1",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:jorgeclarocardoso.github.io:gaiax",
+      "publicKeyJwk": {
+        "kty": "RSA",
+        "n": "6UnT9cdk9WScyRWc0f2sUiEa2T3UsxReMsB_IN4tdCvOlBosQp1B7d-2YUrKEtfKK0-JkaX-z8dJWVdPS_20NtnFZsoR0SuErTLUiaK9zMbk1IW4Ja7QOCSlcDjlBynT2JgFPTWO2liHqklP46Hdbbk55qNkS1usNj9BsAU2pTNiD2BAzY05D8NaR4xA0suVlIrOU8nvLj72byh9_cMtCNutmVYomvQcYDdEqgU1jmv_hHYk-_UD041jJkvS_sZYzfOH0k0ykicSGzU9INxe_DuRICmU1H5P8fpAjLUezuA4UpYR1Wq_OU-V88QrtEDL4mlgeieaMnWWkSNNgTgVvw",
+        "e": "AQAB"
+      },
+      "x5c": [
+        "MIIC2TCCAcGgAwIBAgIUTKyhvgq4GOSiJYQgrIrHK78Vh40wDQYJKoZIhvcNAQELBQAwFTETMBEGA1UEAwwKam9yZ2VjbGFybzAeFw0yNjAyMTcxNzEzNDZaFw0yNzAyMTcxNzEzNDZaMBUxEzARBgNVBAMMCmpvcmdlY2xhcm8wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDpSdP1x2T1ZJzJFZzR/axSIRrZPdSzFF4ywH8g3i10K86UGixCnUHt37ZhSsoS18orT4mRpf7Px0lZV09L/bQ22cVmyhHRK4StMtSJor3MxuTUhbglrtA4JKVwOOUHKdPYmAU9NY7aWIeqSU/jod1tuTnmo2RLW6w2P0GwBTalM2IPYEDNjTkPw1pHjEDSy5WUis5Tye8uPvZvKH39wy0I262ZViia9BxgN0SqBTWOa/+EdiT79QPTjWMmS9L+xljN84fSTTKSJxIbNT0g3F78O5EgKZTUfk/x+kCMtR7O4DhSlhHVar85T5XzxCu0QMviaWB6J5oydZaRI02BOBW/AgMBAAGjITAfMB0GA1UdDgQWBBSF759ig+9XvFCUEDOQvxx5hBfKZDANBgkqhkiG9w0BAQsFAAOCAQEAB7BDje6aLl8tBLMrAi6laRYnsp9VQ8TVMP4TyZCo/GF5nCB4RN9Pm2yCTxRFmgDKRKIYYmT+295jbdIX1opCHLbhzPNTIi6HdpMN1FX1/GvLBjJgtFfwxBu5zKkumq+OrysHmQc9zDNmXAJ2uXw1KWZkPvywo828/jjR0cXk6uSDWW3QEz2w/LH47pHejPa6yjyvOG3imAAn7+adVXKYtoqRsOLvZwqUG4ZuMtOL/0YrUtfZFXydagjFRO99QOXxWHSTaFhh/yZiytSZd5c3nF1Zgnwtxbr2uySFICXcFKRvYHbHvlGW7oEWFqngHK6Gz813MYjrllbFtvGYmOiQBA=="
+      ]
+    }
+  ],
+  "authentication": [
+    "did:web:jorgeclarocardoso.github.io:gaiax#keys-1"
+  ]
+}
