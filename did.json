@@ -11,7 +11,7 @@
       "controller": "did:web:jorgeclarocardoso.github.io:gaiax",
       "publicKeyJwk": {
         "kty": "RSA",
-        "n": "6UnT9cdk9WScyRWc0f2sUiEa2T3UsxReMsB_IN4tdCvOlBosQp1B7d-2YUrKEtfKK0-JkaX-z8dJWVdPS_20NtnFZsoR0SuErTLUiaK9zMbk1IW4Ja7QOCSlcDjlBynT2JgFPTWO2liHqklP46Hdbbk55qNkS1usNj9BsAU2pTNiD2BAzY05D8NaR4xA0suVlIrOU8nvLj72byh9_cMtCNutmVYomvQcYDdEqgU1jmv_hHYk-_UD041jJkvS_sZYzfOH0k0ykicSGzU9INxe_DuRICmU1H5P8fpAjLUezuA4UpYR1Wq_OU-V88QrtEDL4mlgeieaMnWWkSNNgTgVvw",
+        "n": "AN_o7ESQXeDdL5K9VoJlT3VAlETjUwql5UuTf3cDGzxJuzxCG30exn5ts9q9dN8sA9vIv4EzWTJ5NKJzPC_sAb7nT2BOYYbCD52itoDIlJO4w27IS_4HtfFwIQSjzctWdp83tJpp6zQsCLcAFHWJ7HJ7fVmyLzJexDKyrOc_LKqSaHnyXy246CRPdrQyPqT-Dg5tEOYbCCPPWKBkYXzR9FlS9m7XqMisdGV0X4F60XfFXYt2oMHFcydRq15AmLIsrP_8Fckhq2C4tc99sbgh480JGwUTPc_R2QN-herHeGXbkKc3rmcRwRKW5Ed40IbL_Z-9eNEE9fxe3LtJfkiPJLEpA9IcuMom_kFdgSR8S8YpT-STQ6fvj_NNLEfZuZ2ase6gc9GqYDqyWALzTuM1ioJ4TzPjmkX2s-vVschp9STcV2lgdu35zh8CGMKrv2jkkrcZ90qwrM5CDA8b4wwpjZicy3H2dG70sQrT0zWYe8XCxc9fVRtguUjgQ3BHvsXf3w",
         "e": "AQAB",
         "x5u": "https://jorgeclarocardoso.github.io/gaiax/x509CertificateChain.pem"
       }
